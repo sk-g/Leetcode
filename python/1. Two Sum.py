@@ -34,4 +34,16 @@ class Solution:
                 return([i,a[nums[i]]])
             else:
                 a[target - nums[i]] = i
+        """
+        yet another way to use the same 
+        logic
+        # 44 ms beats 100% in python3
+        seen = {}
+        for i in range(len(nums)):
+            if nums[i] not in seen:
+                seen[target-nums[i]] = i
+            else:
+                #print("{} is in seen".format(nums[i]))
+                return([seen[nums[i]],i])
+        """
         

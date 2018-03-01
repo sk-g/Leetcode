@@ -43,4 +43,16 @@ class Solution(object):
                 
                 return False
                 
-                
+# or we could use this string hack
+
+class Solution:
+    def isPalindrome(self, x):
+        """
+        :type x: int
+        :rtype: bool
+        """
+        if x < 0:
+            return False
+        else:
+            x = str(x)
+            return(int(x[::-1]) == int(x))                
