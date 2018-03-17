@@ -4,7 +4,9 @@
 # logic: if a number appears [n/2] or more times then it must fall in middle too
 # after sorting
 # other interesting approaches: Boyer - Moore Majority Algorithm
-
+# Difficulty: Easy
+# Commpanies: Adobe
+# Topics: Sorting ( Divide and Conquer)
 class Solution:
     def majorityElement(self, nums):
         """
