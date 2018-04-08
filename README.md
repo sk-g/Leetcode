@@ -11,7 +11,7 @@ If you would like to contribute create an issue/pull request.
 
 ## Links
 
-#	Title	Solution	Acceptance	Difficulty	Frequency  	
+
 [1	Two Sum    	37.9%	Easy](https://github.com/sk-g/Leetcode/blob/master/python/1.%20Two%20Sum.py)
 
 
