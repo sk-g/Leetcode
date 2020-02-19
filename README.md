@@ -18,3 +18,15 @@ If help was taken from some other source, I will post links in the comments of t
 380 / 905   Solved Question
 1245 / 2389   Accepted Submission
 52.1 %   Acceptance Rate
+
+
+### 02/19/2020
+
+
+27 Finished Contests
+1567 Rating
+39887 / 148398 Global Ranking
+Progress
+457 / 1354  Solved Question
+1612 / 3051  Accepted Submission
+52.8 %  Acceptance Rate
